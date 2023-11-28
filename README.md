@@ -8,3 +8,5 @@ Help on marking duplicates: https://pandas.pydata.org/docs/reference/api/pandas.
 
 Help on deleting rows based on column values: https://stackoverflow.com/questions/18172851/deleting-dataframe-row-in-pandas-based-on-column-value
 
+Help on agg: https://www.geeksforgeeks.org/grouping-and-aggregating-with-pandas/
+
