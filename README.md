@@ -10,3 +10,5 @@ Help on deleting rows based on column values: https://stackoverflow.com/question
 
 Help on agg: https://www.geeksforgeeks.org/grouping-and-aggregating-with-pandas/
 
+Help on removing weird message on top of pie chart: https://stackoverflow.com/questions/28269157/plotting-in-a-non-blocking-way-with-matplotlib
+
