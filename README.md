@@ -14,3 +14,4 @@ Help on removing weird message on top of pie chart: https://stackoverflow.com/qu
 
 Help on transposing columns/rows: https://www.w3resource.com/pandas/dataframe/dataframe-transpose.php#:~:text=DataFrame%20%2D%20transpose()%20function,as%20columns%20and%20vice%2Dversa.&text=If%20True%2C%20the%20underlying%20data,copy%20is%20made%20if%20possible.
 
+Refresher on boxplots in pandas: https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.boxplot.html
